@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book id="1" category="fiction">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <price>12.50</price>
+  </book>
+
+  <book id="2" category="cooking">
+    <title lang="en">The Joy of Cooking2</title>
+    <author>Irma S. Rombauer2</author>
+    <year>1931</year>
+    <price>225.00</price>
+  </book>
+
+  <book id="3" category="1">
+    <title lang="en">1</title>
+    <author>1</author>
+    <year>2018</year>
+    <price>1</price>
+  </book>
+
+  <book id="4" category="tets">
+    <title lang="en">sach</title>
+    <author>minh</author>
+    <year>2019</year>
+    <price>8</price>
+  </book>
+
+  <book id="5" category="fiction">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1818</year>
+    <price>12.50</price>
+  </book>
+
+  <book id="6" category="fiction">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1818</year>
+    <price>12.50</price>
+  </book>
+
+  <book id="7" category="1">
+    <title lang="en">1</title>
+    <author>1</author>
+    <year>2018</year>
+    <price>1</price>
+  </book>
+
+  <book id="8" category="fiction">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <price>12.50</price>
+  </book>
+
+  <book id="9" category="cooking">
+    <title lang="en">The Joy of Cooking2</title>
+    <author>Irma S. Rombauer2</author>
+    <year>1931</year>
+    <price>225.00</price>
+  </book>
+
+  <book id="10" category="1">
+    <title lang="en">1</title>
+    <author>1</author>
+    <year>2018</year>
+    <price>1</price>
+  </book>
+
+</bookstore>
